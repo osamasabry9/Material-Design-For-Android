@@ -6,4 +6,8 @@
     <string name="signup_with_google">Sign up with Google</string>
     <string name="sign_up_with_facebook">Sign up with Facebook</string>
     <string name="are_you_new_user_register">Are you new user? Register</string>
+    <string name="create_naccount">Create \nAccount</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="you_have_an_account_log_in">You have an account? Log in</string>
 </resources>
