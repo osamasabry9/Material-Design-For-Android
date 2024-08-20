@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Material Design</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup_with_google">Sign up with Google</string>
+    <string name="sign_up_with_facebook">Sign up with Facebook</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
 </resources>
