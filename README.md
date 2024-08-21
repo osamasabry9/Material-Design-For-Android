@@ -9,6 +9,7 @@ This repository demonstrates the use of **Material Design** principles in Androi
 - [Installation](#installation)
 - [Branches](#branches)
 - [Login_Signup_splash_pages Branch](#login_signup_splash_pages-branch)
+- [Login-signup-dashboard-activities Branch](#login-signup-dashboard-activities-branch)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -34,8 +35,9 @@ To install and run the project locally, follow these steps:
 
 - **Main Branch**: The core implementation of Material Design in Android is located here.
 - **Login_Signup_splash_pages Branch**: This branch focuses on the implementation of login, signup, and splash screens with Material Design integration.
+- **Login-signup-dashboard-activities Branch**: This branch adds dashboard activities to the existing login and signup flows, implementing Material Design components throughout the dashboard.
 
-### Login_Signup_splash_pages Branch
+### 1- Login_Signup_splash_pages Branch
 
 This branch provides the following:
 
@@ -61,6 +63,32 @@ To check out and work on this branch, use the following command:
 git checkout Login_Signup_splash_pages
 ```
 Explore this branch to understand how Material Design principles are applied to user authentication flows in Android applications.
+
+### 2- Login-signup-dashboard-activities Branch
+This branch expands upon the login and signup flows by adding a Dashboard page, designed with Material Design components for a seamless user experience. It focuses on providing navigation and core functionality for post-login activities.
+
+Features include:
+
+- **Dashboard Page**: Material Design implementation of a user dashboard with cards, floating action buttons, and smooth transitions.
+- **User Navigation**: Easy navigation to key features after user login.
+
+### Screenshots
+<h3> 2- Login-signup-dashboard-activities</h3>
+
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/5566f33a-f112-4c9d-b5e1-220597200d8b" width="300" hight=500  title="1- Dashboard Page ">
+  <img src="https://github.com/user-attachments/assets/755c8b82-03d8-4be3-9222-b7e59dcc8423" width="300" hight=500  title="2- Login Page">
+  <img src="https://github.com/user-attachments/assets/0bbf2607-db21-4844-b3cd-b91f8da86979" width="300" hight=500  title="3- SignUp Page">
+</p>
+
+#### Usage Instructions
+To check out and work on this branch, use the following command:
+
+```bash
+git checkout Login-signup-dashboard-activities
+```
+Explore this branch to understand how Material Design principles are extended to the user dashboard and activities.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your changes. Contributions should align with Material Design best practices and maintain high code quality.
