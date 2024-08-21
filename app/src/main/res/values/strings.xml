@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Material Design</string>
+    <string name="hello">Hello</string>
+    <string name="my_name">Ossama Sabri</string>
+    <string name="video_call_text">Video Call</string>
+    <string name="notification">Notification</string>
+    <string name="voice_call">Voice Call</string>
+    <string name="to_get_unlimited">To Get Unlimited</string>
 </resources>
