@@ -290,6 +290,7 @@
                     android:layout_marginTop="8dp"
                     android:text="Index"
                     android:textAlignment="center"
+                    android:textColor="#075817"
                     android:textStyle="bold" />
             </LinearLayout>
 
@@ -325,6 +326,7 @@
                     android:layout_marginTop="8dp"
                     android:text="Maps"
                     android:textAlignment="center"
+                    android:textColor="#075817"
                     android:textStyle="bold" />
             </LinearLayout>
 
@@ -360,6 +362,7 @@
                     android:layout_marginTop="8dp"
                     android:text="Chats"
                     android:textAlignment="center"
+                    android:textColor="#075817"
                     android:textStyle="bold" />
             </LinearLayout>
 
@@ -395,6 +398,7 @@
                     android:layout_marginTop="8dp"
                     android:text="Reports"
                     android:textAlignment="center"
+                    android:textColor="#075817"
                     android:textStyle="bold" />
             </LinearLayout>
         </LinearLayout>
@@ -437,6 +441,7 @@
                     android:layout_marginTop="8dp"
                     android:text="Calender"
                     android:textAlignment="center"
+                    android:textColor="#075817"
                     android:textStyle="bold" />
             </LinearLayout>
 
@@ -542,6 +547,7 @@
                     android:layout_marginTop="8dp"
                     android:text="More"
                     android:textAlignment="center"
+                    android:textColor="#075817"
                     android:textStyle="bold" />
             </LinearLayout>
         </LinearLayout>
