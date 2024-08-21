@@ -6,4 +6,10 @@
     <string name="notification">Notification</string>
     <string name="voice_call">Voice Call</string>
     <string name="to_get_unlimited">To Get Unlimited</string>
+    <string name="welcome_nback">Welcome \nBack</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
 </resources>
