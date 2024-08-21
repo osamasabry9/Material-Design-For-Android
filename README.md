@@ -50,9 +50,9 @@ This branch provides the following:
 
 <p align="center">
 
-  <img src="https://github.com/user-attachments/assets/1bfef08b-6a99-46bf-b15d-a6883c468821" width="300" hight=500  title="1- Splash Page ">
-  <img src="https://github.com/user-attachments/assets/90fff339-1695-4a4a-8858-c3a95caf9fc6" width="300" hight=500  title="2- Login Page">
-  <img src="https://github.com/user-attachments/assets/b4b6e6fb-38d2-472b-b63c-ea633b11380c" width="300" hight=500  title="3- SignUp Page">
+  <img src="https://github.com/user-attachments/assets/1bfef08b-6a99-46bf-b15d-a6883c468821" width="200" hight=500  title="1- Splash Page ">
+  <img src="https://github.com/user-attachments/assets/90fff339-1695-4a4a-8858-c3a95caf9fc6" width="200" hight=500  title="2- Login Page">
+  <img src="https://github.com/user-attachments/assets/b4b6e6fb-38d2-472b-b63c-ea633b11380c" width="200" hight=500  title="3- SignUp Page">
 </p>
 
 #### Usage Instructions
@@ -77,9 +77,9 @@ Features include:
 
 <p align="center">
 
-  <img src="https://github.com/user-attachments/assets/5566f33a-f112-4c9d-b5e1-220597200d8b" width="300" hight=500  title="1- Dashboard Page ">
-  <img src="https://github.com/user-attachments/assets/755c8b82-03d8-4be3-9222-b7e59dcc8423" width="300" hight=500  title="2- Login Page">
-  <img src="https://github.com/user-attachments/assets/0bbf2607-db21-4844-b3cd-b91f8da86979" width="300" hight=500  title="3- SignUp Page">
+  <img src="https://github.com/user-attachments/assets/5566f33a-f112-4c9d-b5e1-220597200d8b" width="200" hight=500  title="1- Dashboard Page ">
+  <img src="https://github.com/user-attachments/assets/755c8b82-03d8-4be3-9222-b7e59dcc8423" width="200" hight=500  title="2- Login Page">
+  <img src="https://github.com/user-attachments/assets/0bbf2607-db21-4844-b3cd-b91f8da86979" width="200" hight=500  title="3- SignUp Page">
 </p>
 
 #### Usage Instructions
